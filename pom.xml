@@ -66,7 +66,7 @@
 			
 		</plugins>
 		
-		<finalName> spring-boot-docker-one </finalName>
+		<!--- <finalName> spring-boot-docker-one </finalName> --->
 		
 	</build>
 	
